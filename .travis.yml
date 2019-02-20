@@ -1,4 +1,4 @@
-deploy:
+script:
         provider: script
         script: bash script.sh
         on:
