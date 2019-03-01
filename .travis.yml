@@ -1,5 +1,1 @@
-script:
-        provider: script
-        script: bash script.sh
-        on:
-                branch: master
+script: bash script.sh
